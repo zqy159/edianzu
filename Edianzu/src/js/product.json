@@ -1,0 +1,587 @@
+{
+	"short":[
+		{
+			"id":"-short-1-1",
+			"img":"img/short1-1.jpg",
+			"txt":"全新 惠普hp Z640工作站(E5-2630v4*2/128G/1TB SSD+4T HDD/P6000 24G)",
+			"price":"￥7558.00"
+		},
+		{
+			"id":"-short-1-2",
+			"img":"img/short1-2.jpg",
+			"txt":"PC工程师驻场服务(1人次/月)",
+			"price":"￥7000.00"
+		},
+		{
+			"id":"-short-1-3",
+			"img":"img/short1-3.jpg",
+			"txt":"全新 易点租/Edianzu 易办公QuickPC E37 台式机 (i7-8700/16G/2T/核显UHD630/23.8飞利浦显示器/USB无线网卡)",
+			"price":"￥6240.00"
+		},
+		{
+			"id":"-short-1-4",
+			"img":"img/short1-4.jpg",
+			"txt":"全新 惠普hp Z640工作站(E5-2630v4*2/64G/256G SSD+3T HDD/P5000 16G)",
+			"price":"￥4228.00"
+		},
+		{
+			"id":"-short-1-5",
+			"img":"img/short1-5.jpg",
+			"txt":"全新 易点租 QuickPC E24 Pro 台式机(i3-7100 3.9GHz/4G/120G SSD/核显/223V5LSB 21.5寸/USB无线网卡/USB键鼠/8L机箱/易点租保修)",
+			"price":"￥3140.00"
+		},
+		{
+			"id":"-short-1-6",
+			"img":"img/short1-6.jpg",
+			"txt":"全新 易点租 QuickPC E23 Pro 台式机(i3-7100 3.9GHz/4G/1T HDD/核显/223V5LSB 21.5寸/USB无线网卡/USB键鼠/8L机箱/易点租保修) ",
+			"price":"￥3140.00"
+		},
+		{
+			"id":"-short-1-7",
+			"img":"img/short1-7.jpg",
+			"txt":"全新 易点租 QuickPC E21 Pro 台式机(G3930 2.9Ghz/4G/1T HDD/核显/203V5LSB2 19.5寸/USB无线网卡/USB键鼠/8L机箱/易点租保修)",
+			"price":"￥2440.00"
+		},
+		{
+			"id":"-short-1-8",
+			"img":"img/short1-8.jpg",
+			"txt":"全新 易点租 QuickPC E22 Pro 台式机(G3930 2.9Ghz/4G/120G SSD/核显/203V5LSB2 19.5寸/USB无线网卡/USB键鼠/8L机箱/易点租保修)",
+			"price":"￥2440.00"
+		},
+		{
+			"id":"-short-1-9",
+			"img":"img/short1-9.jpg",
+			"txt":"全新 易点租/Edianzu 易办公QuickPC E21 台式机 (G3930/4G/1T/集显/飞利浦19.5英寸显示器/Linux/含键盘鼠标)",
+			"price":"￥2440.00"
+		},
+		{
+			"id":"-short-1-10",
+			"img":"img/short1-10.jpg",
+			"txt":"全新 惠普hp Z440工作站(E5-1650v4/64G/256G SSD/3T/P4000 8G)",
+			"price":"￥2438.00"
+		},
+		{
+			"id":"-short-1-11",
+			"img":"img/short1-11.jpg",
+			"txt":"[软硬件服务] SSD固态硬盘数据恢复",
+			"price":"￥2200.00"
+		},
+		{
+			"id":"-short-1-12",
+			"img":"img/short1-12.jpg",
+			"txt":"全新 惠普hp Z440工作站(E5-1620v4/32G/256G SSD/3T/P2000 5G)",
+			"price":"￥1528.00"
+		},
+		{
+			"id":"-short-1-13",
+			"img":"img/short1-13.jpg",
+			"txt":"全新 微软/Microsoft Surface Pro4 带指纹识别的专业键盘",
+			"price":"￥1198.00"
+		},
+		{
+			"id":"-short-1-14",
+			"img":"img/short1-14.jpg",
+			"txt":"全新 微软/Microsoft Surface Pro 特制版专业键盘盖(新) 灰钻蓝",
+			"price":"￥1198.00"
+		},
+		{
+			"id":"-short-1-15",
+			"img":"img/short1-15.jpg",
+			"txt":"全新 微软/Microsoft Surface Pro 特制版专业键盘盖(新) 灰",
+			"price":"￥1198.00"
+		},
+		{
+			"id":"-short-1-16",
+			"img":"img/short1-16.jpg",
+			"txt":"全新 微软/Microsoft Surface Pro 特制版专业键盘盖(新) 深酒红",
+			"price":"￥1198.00"
+		},
+		{
+			"id":"-short-1-17",
+			"img":"img/short1-17.jpg",
+			"txt":"全新 惠普hp Z240工作站(E3-1240v6/32G/256G SSD/2T/P2000 5G)",
+			"price":"￥1148.00"
+		},
+		{
+			"id":"-short-1-18",
+			"img":"img/short1-18.png",
+			"txt":"无线网络部署(150~250人企业无线布网)",
+			"price":"￥1058.00"
+		},
+		{
+			"id":"-short-1-19",
+			"img":"img/short1-19.jpg",
+			"txt":"全新 微软(Microsoft) 2017款 Surface Pro (FKL00009) 12.3寸便携超极本 (i7/16G/1TB SSD/核显/Win10 Pro)",
+			"price":"￥1028.00"
+		},
+		{
+			"id":"-short-1-20",
+			"img":"img/short1-20.jpg",
+			"txt":"[软硬件服务] 数据恢复服务(以具体容量、类型硬盘服务价格为准)",
+			"price":"￥1000.00"
+		},
+		{
+			"id":"-short-1-21",
+			"img":"img/short1-21.jpg",
+			"txt":"企业专属操作系统定制服务(仅限易点租租赁的PC类产品)",
+			"price":"￥1000.00"
+		},
+		{
+			"id":"-short-1-22",
+			"img":"img/short1-22.jpg",
+			"txt":"全新 微软/Microsoft Surface Pro 特制版专业键盘盖(新) 黑",
+			"price":"￥988.00"
+		},
+		{
+			"id":"-short-1-23",
+			"img":"img/short1-23.jpg",
+			"txt":"全新 Apple iPhoneX (A11/3G RAM/256GB ROM/5.8英寸2436 x 1125 OLED全面屏 Multi-Touch 显示屏/深空灰)",
+			"price":"￥898.00"
+		},
+		{
+			"id":"-short-1-24",
+			"img":"img/short1-24.jpg",
+			"txt":"全新 三星空气净化器 KJ1100G-K9080W 超大空间(适合138平米)",
+			"price":"￥888.00"
+		},
+		{
+			"id":"-short-1-25",
+			"img":"img/short1-25.jpg",
+			"txt":"全新 惠普hp Z240工作站(i7-7700/32G/256G SSD/3T/核显HD630)",
+			"price":"￥878.00"
+		}
+	],
+	"service":[
+		{
+			"txt1":"无忧服务",
+			"txt2":"服务无忧，值得拥有",
+			"txt3":"为客户提供意外保、软硬无忧等服务产品，让我们的服务做得更贴心，让意外保没有意外。"
+		},
+		{
+			"id":"-service-1-2",
+			"img":"img/service1-1.jpg",
+			"txt":"[软硬件服务] SSD固态硬盘数据恢复",
+			"price":"￥2200.00"
+		},
+		{
+			"id":"-service-1-3",
+			"img":"img/service1-2.jpg",
+			"txt":"[软硬件服务] 电脑软件安装服务",
+			"price":"￥50.00"
+		},
+		{
+			"id":"-service-1-4",
+			"img":"img/service1-3.jpg",
+			"txt":"[软硬件服务] 意外保",
+			"price":"￥80.00"
+		},
+		{
+			"txt1":"驻场服务",
+			"txt2":"高品质驻场，高品质服务",
+			"txt3":"在客户现场储备高品质工程师，全日制为客户提供IT服务，解决各种软硬件问题，网络问题，定期巡检等。"
+		},
+		{
+			"id":"-service-1-6",
+			"img":"img/service1-4.jpg",
+			"txt":"PC工程师驻场服务(1人次/月)",
+			"price":"￥7000.00"
+		},
+		{
+			"id":"-service-1-7",
+			"img":"img/service1-5.jpg",
+			"txt":"PC工程师驻场服务(1人次/天)",
+			"price":"￥800.00"
+		},
+		{
+			"id":"-service-1-8",
+			"img":"img/service1-6.jpg",
+			"txt":"PC工程师驻场服务(1人次/半天)",
+			"price":"￥400.00"
+		},
+		{
+			"txt1":"计次上门服务",
+			"txt2":"一次上门，神马都解决！！！",
+			"txt3":"按需上门，根据客户电脑需求，提供计次上门服务，以解决客户各式各样不同问题，比如硬件升级、操作系统安装、硬件修复、电脑清洁等。"
+		},
+		{
+			"id":"-service-1-10",
+			"img":"img/service1-7.jpg",
+			"txt":"办公电脑上门安装服务 (1人次/4小时，不限定品牌产品)",
+			"price":"￥400.00"
+		},
+		{
+			"id":"-service-1-11",
+			"img":"img/service1-8.jpg",
+			"txt":"第二个工作日上门服务(每次，不限品牌产品)",
+			"price":"￥200.00"
+		},
+		{
+			"id":"-service-1-12",
+			"img":"img/service1-9.jpg",
+			"txt":"企业IT搬迁服务(定制服务，以实际数量为准)",
+			"price":"￥10.00"
+		},
+		{
+			"txt1":"软件定制服务",
+			"txt2":"您需要我定制！",
+			"txt3":"为企业客户量身定制，包括镜像、盘点服务等。"
+		},
+		{
+			"id":"-service-1-14",
+			"img":"img/service1-10.jpg",
+			"txt":"企业专属操作系统定制服务(仅限易点租租赁的PC类产品)",
+			"price":"￥1000.00"
+		},
+		{
+			"id":"-service-1-15",
+			"img":"img/service1-11.jpg",
+			"txt":"[软硬件服务] 企业办公资产盘点服务 (1次/每台，不限定品牌产品)",
+			"price":"￥15.00"
+		},
+		{
+			"id":"-service-1-15",
+			"img":"img/service1-11.jpg",
+			"txt":"[软硬件服务] 企业办公资产盘点服务 (1次/每台，不限定品牌产品)",
+			"price":"￥15.00"
+		}
+	],
+	"promotion":[
+		{
+			"id":"-promotion-1-1",
+			"img":"img/promotion1.jpg",
+			"txt":"惠普(HP) ProDesk 400 G3 SFF 小机箱台式机(G4400/4GB/500GB/核显/P200 19.5英寸显示器)",
+			"i":"经典办公，商务典范",
+			"li1":"奔腾 G4400",
+			"li2":"4GB 内存",
+			"li3":"500GB 硬盘",
+			"li4":"19.5英寸显示器",
+			"price":"￥95",
+			"prices":"￥115"
+		},
+		{
+			"id":"-promotion-1-2",
+			"img":"img/promotion2.jpg",
+			"txt":"ThinkPad E450 14英寸笔记本电脑(i3/4GB/500GB/2G独显)",
+			"i":"商务便携，高性价比",
+			"li1":"i3-5005 处理器",
+			"li2":"4GB 内存",
+			"li3":"500GB 硬盘",
+			"li4":"2GB 独显",
+			"price":"￥95",
+			"prices":"￥115"
+		},
+		{
+			"id":"-promotion-1-3",
+			"img":"img/promotion3.jpg",
+			"txt":"全新 戴尔(DELL) 3050MT 台式机",
+			"i":"商务经典，性价比高",
+			"li1":"i3-6100 处理器",
+			"li2":"8GB 内存",
+			"li3":"500GB 机械硬盘",
+			"li4":"21.5英寸屏幕",
+			"price":"￥148 ",
+			"prices":"￥158"
+		},
+		{
+			"id":"-promotion-1-4",
+			"img":"img/promotion4.jpg",
+			"txt":"戴尔DELL 3050SFF 单主机 (i3-7100/4GB/500GB/核显/Win10)",
+			"i":"行政办公主机",
+			"li1":"i3-7100 处理器",
+			"li2":"4GB 内存",
+			"li3":"500GB 机械硬盘",
+			"li4":"Win 10 操作系统",
+			"price":"￥98",
+			"prices":"￥118"
+		},
+		{
+			"id":"-promotion-1-5",
+			"img":"img/promotion5-1.jpg",
+			"txt":"ThinkPad E470 14英寸笔记本电脑(i3-6006U/4GB/500GB/集显)",
+			"prices":"原价￥115",
+			"price":"￥99"
+		},
+		{
+			"id":"-promotion-1-6",
+			"img":"img/promotion5-2.jpg",
+			"txt":"ThinkPad T430 14.0英寸笔记本电脑(i5/16GB/500GB+120GB SSD/集显)",
+			"prices":"原价￥185",
+			"price":"￥170"
+		},
+		{
+			"id":"-promotion-1-7",
+			"img":"img/promotion5-3.jpg",
+			"txt":"戴尔(DELL) Latitude E5270 12.5英寸笔记本电脑(i5-6200U/8GB/500GB/集显/HD)",
+			"prices":"原价￥228",
+			"price":"￥218"
+		},
+		{
+			"id":"-promotion-1-8",
+			"img":"img/promotion5-4.jpg",
+			"txt":"全新 联想(Lenovo) 启天M4600 台式机 (i5-6500/8G/500G/核显/F2014 19.5英寸显示器)",
+			"prices":"原价￥202",
+			"price":"￥1788"
+		},
+		{
+			"id":"-promotion-1-9",
+			"img":"img/promotion5-5.jpg",
+			"txt":"全新 惠普(HP) ProDesk 400 G4 SFF 小机箱台式机(i5-7500/8GB/1TB/GT730 2G独显/P232 23英寸显示器/Win10 Home)",
+			"prices":"原价￥208",
+			"price":"￥198"
+		},
+		{
+			"id":"-promotion-1-10",
+			"img":"img/promotion5-6.jpg",
+			"txt":"英特尔/Intel 超微型电脑主机/HTPC NUC5i3RYH (i3-5010U/4G/500G/无显示器)",
+			"prices":"原价￥118",
+			"price":"￥95"
+		},
+		{
+			"id":"-promotion-1-11",
+			"img":"img/promotion5-7.jpg",
+			"txt":"ThinkPad W520 15.6英寸图形工作站(i7/8GB/500GB/Q1000专业绘图显卡/1600*900)",
+			"prices":"原价￥235",
+			"price":"￥218"
+		},
+		{
+			"id":"-promotion-1-2",
+			"img":"img/promotion5-8.jpg",
+			"txt":"戴尔(DELL) 3046SFF 单主机 (i3-6100/4GB/500GGB/HD530核显/Win 10)",
+			"prices":"原价￥108",
+			"price":"￥98"
+		},
+		{
+			"id":"-promotion-1-13",
+			"img":"img/promotion5-9.jpg",
+			"txt":"全新 戴尔(DELL) OptiPlex3050AIO 19.5英寸一体机电脑",
+			"prices":"原价￥188",
+			"price":"￥150"
+		}
+	],
+	"hot":[
+		{
+			"id":"-hot-1-1",
+			"img":"img/hot1-1.jpg",
+			"txt":"易办公QuickPC E21Pro 台式机",
+			"price":"￥85"
+		},
+		{
+			"id":"-hot-1-2",
+			"img":"img/hot1-2.jpg",
+			"txt":"全新 联想(Lenovo) 启天M4600 台式机",
+			"price":"￥218"
+		},
+		{
+			"id":"-hot-1-3",
+			"img":"img/hot1-3.jpg",
+			"txt":"易办公QuickPC E21Pro 台式机易办公QuickPC E21Pro 台式机",
+			"price":"￥99"
+		},
+		{
+			"id":"-hot-1-4",
+			"img":"img/hot1-4.jpg",
+			"txt":"ThinkPad X220 极速版",
+			"price":"￥85"
+		},
+		{
+			"id":"-hot-1-5",
+			"img":"img/hot1-5.jpg",
+			"txt":"全新MacBook Air MQD32",
+			"price":"￥238"
+		},
+		{
+			"id":"-hot-1-6",
+			"img":"img/hot1-6.jpg",
+			"txt":"全新MacBook Pro MPXQ2",
+			"price":"￥330"
+		}
+	],
+
+	"floor":[
+	{
+		"h1":"行政办公",
+		"id":"-floor-1-1",
+		"img":"img/floor1-1.jpg",
+		"txt":"全新 戴尔 Latitude 3490 14英寸笔记本电脑(i3-6006U/4G/500G/集显/Win10 Home)",
+		"price":"￥95"
+	},
+	{	
+		"id":"-floor-1-2",
+		"img":"img/floor1-2.jpg",
+		"txt":"全新 戴尔 Latitude 3490 14英寸笔记本电脑(i3-6006U/8G/500G/集显/win10 home)",
+		"price":"￥105"
+	},
+	{
+		"id":"-floor-1-3",
+		"img":"img/floor1-3.jpg",
+		"txt":"全新 戴尔 Latitude 3490 14英寸笔记本电脑(i3-6006U/8G/500G/集显/win10 home)",
+		"price":"￥115"
+	},
+	{
+		"id":"-floor-1-4",
+		"img":"img/floor1-4.jpg",
+		"txt":"全新 惠普(HP) ProDesk 480 G3 MT 台式机 (i5-6500/8G/500G/集显/Win7 Home/23英寸)",
+		"price":"￥218"
+	},
+	{
+		"id":"-floor-1-5",
+		"img":"img/floor1-5.jpg",
+		"txt":"ThinkPad X230 12.5英寸便携笔记本电脑(i5/4GB/500GB/集显)",
+		"price":"￥218"
+	},
+	{
+		"id":"-floor-1-6",
+		"img":"img/floor1-6.jpg",
+		"txt":"全新 小米(XIAOMI) Air 13.3英寸笔记本电脑(i5-7200U/8G/256G PCle SSD/MX150 2G独显/FHD/指纹识别/银色/Win10 home)",
+		"price":"￥288"
+	},
+	{
+		"h1":"技术开发",
+		"id":"-floor-2-1",
+		"img":"img/floor2-1.jpg",
+		"txt":"全新 惠普 ProBook 440 G5 14英寸笔记本电脑(i5-8250U/8G/1T/930MX 2G独显)",
+		"price":"￥218"
+	},
+	{
+		"id":"-floor-2-2",
+		"img":"img/floor2-2.jpg",
+		"txt":"全新 苹果Apple Macbook Pro MPXX2 13.3英寸笔记本电脑 银色 (i5-3.1G/8G/256G/Intel)",
+		"price":"￥519"
+	},
+	{
+		"id":"-floor-2-3",
+		"img":"img/floor2-3.jpg",
+		"txt":"全新 ThinkPad T480 14英寸笔记本电脑(i5-8250U/8G/256G SSD/核显/HD/Win 10 Home)",
+		"price":"￥291"
+	},
+	{
+		"id":"-floor-2-4",
+		"img":"img/floor2-4.jpg",
+		"txt":"全新 戴尔DELL 3050SFF台式机 (i7-7700/16G/256G SSD/P2317H/2GB独显/Win10)",
+		"price":"￥298"
+	},
+	{
+		"id":"-floor-2-5",
+		"img":"img/floor2-5.jpg",
+		"txt":"全新 戴尔(DELL) Latitude E5480H 14英寸笔记本电脑 i5-7440H/8G/256G SSD/FHD/Win10",
+		"price":"￥318"
+	},
+	{
+		"id":"-floor-2-6",
+		"img":"img/floor2-6.jpg",
+		"txt":"全新 苹果Apple Macbook Pro MPXU2 13.3英寸笔记本电脑 银色",
+		"price":"￥418"
+	},
+	{
+		"h1":"商务便携",
+		"id":"-floor-3-1",
+		"img":"img/floor3-1.jpg",
+		"txt":"ThinkPad X230 极速版 12.5英寸便携笔记本电脑(i5/4GB/120GB SSD/集显)",
+		"price":"￥105"
+	},
+	{
+		"id":"-floor-3-2",
+		"img":"img/floor3-2.jpg",
+		"txt":"ThinkPad X240 12.5英寸笔记本电脑 (i5/8G/500G/核显)",
+		"price":"￥165"
+	},
+	{
+		"id":"-floor-3-3",
+		"img":"img/floor3-3.jpg",
+		"txt":"全新 小米(XIAOMI) air 12.5英寸笔记本电脑 (Core M3-7Y30/4GB/128GB )",
+		"price":"￥178"
+	},
+	{
+		"id":"-floor-3-4",
+		"img":"img/floor3-4.jpg",
+		"txt":"全新 苹果Apple Macbook Air MQD32CH/A 13.3英寸笔记本电脑 (i5/8G/128G/Intel HD6000)",
+		"price":"￥238"
+	},
+	{
+		"id":"-floor-3-5",
+		"img":"img/floor3-5.jpg",
+		"txt":"全新 ThinkPad X280 12.5英寸笔记本电脑(i5-8250U/8G/256G SSD/UHD 620核显/HD/WIN 10家庭版)",
+		"price":"￥286"
+	},
+	{
+		"id":"-floor-3-6",
+		"img":"img/floor3-6.jpg",
+		"txt":"全新 微软(Microsoft) 2017款 Surface Pro (FJU00009) )",
+		"price":"￥348"
+	},
+	{
+		"h1":"图形处理",
+		"id":"-floor-4-1",
+		"img":"img/floor4-1.jpg",
+		"txt":"全新 ThinkPad E480 14英寸笔记本电脑(i5-8250U/8G/1T/RX550 2G独显/HD)",
+		"price":"￥214"
+	},
+	{
+		"id":"-floor-4-2",
+		"img":"img/floor4-2.jpg",
+		"txt":"ThinkPad W520 15.6英寸图形工作站(i7/8GB/500GB/Q1000专业绘图显卡/HD+)",
+		"price":"￥218"
+	},
+	{
+		"id":"-floor-4-3",
+		"img":"img/floor4-3.jpg",
+		"txt":"全新 戴尔 3050SFF台式机(i5-7500/8G/1T/Radeon )",
+		"price":"￥218"
+	},
+	{
+		"id":"-floor-4-4",
+		"img":"img/floor4-4.jpg",
+		"txt":"全新 惠普(HP) ProDesk 400G4SFF小机箱台式机(i7/16G/256G SSD/2G独显/)",
+		"price":"￥278"
+	},
+	{
+		"id":"-floor-4-5",
+		"img":"img/floor4-5.jpg",
+		"txt":"全新 苹果 MacBook Pro MPTR2 15.4英寸笔记本电脑(i7/16G/)",
+		"price":"￥718"
+	},
+	{
+		"id":"-floor-4-6",
+		"img":"img/floor4-6.png",
+		"txt":"全新 苹果 iMac MNED2CH/A 27英寸一体电脑(i5/8G/2T/8G独显/Retina 5K)",
+		"price":"￥738"
+	},
+	{
+		"h1":"外设配件",
+		"id":"-floor-5-1",
+		"img":"img/floor5-1.jpg",
+		"txt":"微软/Microsoft office 365 办公软件 商业版",
+		"price":"￥52"
+	},
+	{
+		"id":"-floor-5-2",
+		"img":"img/floor5-2.jpg",
+		"txt":"全新 戴尔(DELL) P2317H 23英寸旋转升降IPS液晶显示器",
+		"price":"￥52"
+	},
+	{
+		"id":"-floor-5-3",
+		"img":"img/floor5-3.jpg",
+		"txt":"全新 苹果(Apple) Mac mini MGEM2CH/A 主机(Core i5/4GB/500GB/HD )",
+		"price":"￥168"
+	},
+	{
+		"id":"-floor-5-4",
+		"img":"img/floor5-4.png",
+		"txt":"稳定！企业WIFI无线网络部署按照企业人数计费的解决方案 企业人数[1-10人]",
+		"price":"￥177"
+	},
+	{
+		"id":"-floor-5-5",
+		"img":"img/floor5-5.jpg",
+		"txt":"全新 明基（BenQ）MS3081+ 经典商务会议投影仪(3200流明/SVGA分辨率/通用VGA接口/13000:1对比度)",
+		"price":"￥238"
+	},
+	{
+		"id":"-floor-5-6",
+		"img":"img/floor5-6.jpg",
+		"txt":"全新2017 Apple iPad Pro 平板电脑 12.9英寸(64G WLAN版/Retina屏/Touch ID/MQDC2CH/A)银色",
+		"price":"￥298"
+	}
+]
+}

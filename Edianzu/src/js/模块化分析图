@@ -1,0 +1,58 @@
+主页:{
+	jquery:
+	common-Html:
+	index-html
+	common-js:
+	banner:	
+	floor:
+}
+详情页：{
+	jquery:	
+	common-Html:
+	item-html
+	common-js:
+	Magnifier:
+	
+}
+购物车业：{
+	jquery:
+	shopping-html:
+	common-js:
+	changeshopping-js:
+}
+
+分页：{
+	jquery:
+	common-Html:
+	cutpage-html:
+	common-js:
+}
+
+登录：{
+	jquery:
+	login-js:
+}
+
+注册：{
+	jquery:
+	register-js:
+}
+
+广告业X2:{
+	jquery:
+	promotion:{
+
+	},
+	service:{
+
+	}
+}
+define(['-------'],()=>{
+	new 
+})
+
+反引：将编写的模块
+require(['jq'],()={
+	
+})
+	

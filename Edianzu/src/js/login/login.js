@@ -1,0 +1,76 @@
+function login() {
+	this.username=$('#username')
+	this.password=$('#password')
+	this.btn=$('#btn')
+	this.input=$('input')
+	this.nologin=$('#loginFree')
+	_this=this
+}
+$.extend(login.prototype,{
+	init(){
+		this.username.on('blur',$.proxy(this.usernames,this))
+		this.password.on('blur',$.proxy(this.passwords,this))
+		this.btn.on('click',$.proxy(this.btns,this))
+		this.input.on('click',$.proxy(this.inputs))
+		this.nlogin()
+		this.nologin.on('click',$.proxy(this.nologins,this))
+	},
+	inputs(){
+		$(this).parent().css('box-shadow','0 0 2px #37a3ff')
+	},
+	usernames:function(e){
+		target=e.target
+		$.ajax({
+			url:'../php/select.php',
+			data:{uname:_this.username.val()},
+			dataType:'json',
+			success:function(d){
+				if(!d.status){
+					$(target).next().hide()
+					$(target).parent().css('border','0')
+				}else{
+					$(target).parent().css('border','1px solid #f00')
+					$(target).next().show().find('span').html('用户名不存在')
+				}
+			}
+		})
+	},
+	btns(){
+		if(this.username.val() && this.password.val()){
+			$.ajax({
+			url:'../php/login.php',
+			data:{uname:_this.username.val(),upwd:_this.password.val()},
+			dataType:'json',
+			success:function(d){
+				if(d.status==1){
+					if(_this.nologin.prop('checked')){
+						$.cookie('init',`${'{"uname"'+':'+'"'+_this.username.val()+'"'+','+'"upwd"'+':'+'"'+_this.password.val()+'"}'}`,{'expires':7})
+						}	
+					location.href='../../index.html'
+					}	
+					alert(d.info)	
+				}
+			})
+		}
+		else{
+			alert('请把信息填完整')
+		}
+	},
+	nlogin(){
+		if($.cookie('init')){
+			this.nologin.prop('checked','checked')
+			console.log(JSON.parse($.cookie('init')).uname)
+			this.username.val(JSON.parse($.cookie('init')).uname)
+			this.password.val(JSON.parse($.cookie('init')).upwd)
+		}
+	},
+	nologins(){
+		if(!this.nologin.prop('checked')){
+			this.username.val('')
+			this.password.val('')
+		}else{
+			$.cookie('init')?this.nlogin():alert('很抱歉没存值')
+		}
+	}
+})
+new login().init()
